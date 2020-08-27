@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on Ory
-- 🌱 I’m currently learning Veujs
+- 🔭 I’m currently working on Icosoft
+- 🌱 I’m currently learning Veujs but focus Laravel
 - 👯 I’m looking to collaborate on Google
 - 🤔 I’m looking for help with Codingame
 - 💬 Ask me about Everything
 - 📫 How to reach me: fb.com/minhluan2292
-- 😄 Pronouns: Learning
+- 😄 Pronouns: Learning 
 - ⚡ Fun fact: Haha
