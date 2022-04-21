@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ** Solutions :D
+- 🔭 I’m currently working on YC Solutions :D
 - 🌱 I’m currently working with reactjs, typescript, java and before I'm working with Veujs and Laravel
 - 👯 I’m looking to collaborate on Google
 - 🤔 I’m looking for help with Codingame
