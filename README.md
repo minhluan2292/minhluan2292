@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on Icosoft
-- 🌱 I’m currently learning Veujs but focus Laravel
+- 🔭 I’m currently working on ** Solutions :D
+- 🌱 I’m currently working with reactjs, typescript, java and before I'm working with Veujs and Laravel
 - 👯 I’m looking to collaborate on Google
 - 🤔 I’m looking for help with Codingame
 - 💬 Ask me about Everything
 - 📫 How to reach me: fb.com/minhluan2292
 - 😄 Pronouns: Learning 
-- ⚡ Fun fact: Haha
+- ⚡ Fun fact: Everyone is good, everyone is beautiful
