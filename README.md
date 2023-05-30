@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on [meaningful projects] :D
-- 🌱 I’m currently working with reactjs, typescript, java and before I'm working with Veujs and Laravel
-- 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Codingame
-- 💬 Ask me about Everything
-- 📫 How to reach me: fb.com/minhluan2292
-- 😄 Pronouns: Learning 
-- ⚡ Fun fact: Everyone is good, everyone is beautiful
+#### &#x1f4c8; My GitHub Stats
+
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=minhluan2292&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=minhluan2292&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="185px" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/minhluan2292/count.svg" />
+</p>
